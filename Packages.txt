@@ -7,7 +7,7 @@ Size: 29472
 MD5sum: 604f41158a604fc3b1aa47731a4995b3
 SHA1: c5fb7d1e5479a0ee1fa1356fee448a6280f9f439
 SHA256: edacda8d619a918f9375621bb8718ad6d80862368be2b4e502cb12e613cb0ab6
-Section: <section on your repo>
+Section: Tweaks
 Description: test
 Author: TheOp 
 Name: Boot
